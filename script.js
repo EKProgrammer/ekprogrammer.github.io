@@ -1,5 +1,5 @@
 const words = [
-    { en: "host", ru: "хозяин", def: "be responsible for running an event", def_ru: "отвечать за проведение мероприятия" },
+    { en: "host", ru: "принимать", def: "be responsible for running an event", def_ru: "отвечать за проведение мероприятия" },
     { en: "commission", ru: "комиссия", def: "send or officially charge someone or some group to do something", def_ru: "направлять или официально поручать кому-то выполнение чего-то" },
     { en: "turnover", ru: "оборот", def: "the amount of money taken as sales transacted in a given period", def_ru: "сумма денег, полученная от продаж за определенный период" },
     { en: "monopoly", ru: "монополия", def: "an exclusive control over the trade or production of a commodity or service through exclusive possession", def_ru: "исключительный контроль над торговлей или производством товара или услуги через исключительное владение" },
@@ -15,7 +15,7 @@ const words = [
     { en: "estimate", ru: "оценка", def: "an approximation of a number based on reasonable assumptions", def_ru: "приблизительная оценка числа, основанная на разумных предположениях" },
     { en: "boost", ru: "увеличивать", def: "increase", def_ru: "увеличивать" },
     { en: "profile", ru: "профиль", def: "an outline of an object when viewed from one side", def_ru: "очертание объекта при взгляде сбоку" },
-    { en: "board", ru: "совет", def: "a group of people who manage the business of an organization", def_ru: "группа людей, управляющая бизнесом организации" },
+    { en: "board", ru: "совет директоров", def: "a group of people who manage the business of an organization", def_ru: "группа людей, управляющая бизнесом организации" },
     { en: "transformation", ru: "преобразование", def: "a marked change", def_ru: "значительное изменение" },
     { en: "catalyst", ru: "катализатор", def: "someone or something that encourages progress or change", def_ru: "кто-то или что-то, что способствует прогрессу или изменению" },
     { en: "grant", ru: "грант", def: "a sum of money or other payment given for a particular purpose", def_ru: "сумма денег или другой платеж, предоставленный для конкретной цели" },
