@@ -1,6 +1,6 @@
 const words = [
     { en: "host", ru: "принимать", def: "be responsible for running an event", def_ru: "отвечать за проведение мероприятия" },
-    { en: "commission", ru: "комиссия", def: "send or officially charge someone or some group to do something", def_ru: "направлять или официально поручать кому-то выполнение чего-то" },
+    { en: "commission", ru: "поручать", def: "send or officially charge someone or some group to do something", def_ru: "направлять или официально поручать кому-то выполнение чего-то" },
     { en: "turnover", ru: "оборот", def: "the amount of money taken as sales transacted in a given period", def_ru: "сумма денег, полученная от продаж за определенный период" },
     { en: "monopoly", ru: "монополия", def: "an exclusive control over the trade or production of a commodity or service through exclusive possession", def_ru: "исключительный контроль над торговлей или производством товара или услуги через исключительное владение" },
     { en: "bid", ru: "ставка", def: "an attempt, effort, or pursuit (of a goal)", def_ru: "попытка, усилие или стремление (к цели)" },
